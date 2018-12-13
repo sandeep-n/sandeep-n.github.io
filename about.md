@@ -1,8 +1,7 @@
 ---
-layout: default
+layout: page
 title: About
+permalink: /about/
 ---
 
-# About
-
-This page tells you a little bit about me.
+Hi, my name is Sandeep. I am a walking, talking Chinese Room. 

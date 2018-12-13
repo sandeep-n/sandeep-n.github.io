@@ -10,9 +10,9 @@ For a series of numbers, a partial sum is defined thus:
 
 In Haskell:
 
-```haskell
+{% highlight haskell %}
 partialSum :: [Int] -> Int
 partialSum [] = []
 partialSum [x] = [x]
 partialSum (x:xs) = [] + partialSum ([x + head xs] ++ tail xs)
-```
+{% endhighlight %}
